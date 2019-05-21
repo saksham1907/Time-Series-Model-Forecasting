@@ -1,4 +1,4 @@
-# TIME-SERIES-MODEL-FORECASTING-
+# TIME-SERIES MODEL FORECASTING-
 Developed two short term and two long term forecast models for various product types produced by  Arconic Fastening System &amp; Rings. Arconic is a company specializing in lightweight metals engineering and manufacturing.
 
  Data
